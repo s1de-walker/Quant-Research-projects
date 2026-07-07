@@ -1,4 +1,7 @@
-# Quant-Research-projects
-Quant research projects where I apply probability and stats concepts like Expected value, Conditional Probability, etc using Python. Also try to visualize and learn as I build them.
+# Quant Research Projects
 
-[](https://github.com/s1de-walker/Quant-Research-projects/blob/main/Project%201%3A%20Simple%20conditional%20proability%2C%20EV%20and%20Variance/training1.ipynb)
+Quant research projects where I apply probability and statistics concepts such as Expected Value, Conditional Probability, and Variance using Python. The goal is to build intuition through hands-on implementation, visualization, and experimentation.
+
+## Projects
+
+### [Project 1: Simple Conditional Probability, Expected Value, and Variance](./Project%201%3A%20Simple%20Conditional%20Probability%2C%20Expected%20Value%2C%20and%20Variance/training1.ipynb)
