@@ -11,3 +11,5 @@ Quant research projects where I apply probability and statistics concepts such a
 ### [Project 3: Multiple Conditional Probability](https://github.com/s1de-walker/Quant-Research-projects/blob/main/Project%2003%3A%20Multiple%20Conditional%20Probability/training3_multiple_conditional.ipynb)
 
 ### [Project 4: Grouping](https://github.com/s1de-walker/Quant-Research-projects/blob/main/Project%2004%3A%20Grouping/training4_grouping.ipynb)
+
+### [Project 4: Grouping](https://github.com/s1de-walker/Quant-Research-projects/blob/main/Project%2005%3A%20Simulation/training5_simulation.ipynb)
