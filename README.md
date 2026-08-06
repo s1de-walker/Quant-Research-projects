@@ -13,3 +13,5 @@ Quant research projects where I apply probability and statistics concepts such a
 ### [Project 4: Grouping](https://github.com/s1de-walker/Quant-Research-projects/blob/main/Project%2004%3A%20Grouping/training4_grouping.ipynb)
 
 ### [Project 5: Simulation](https://github.com/s1de-walker/Quant-Research-projects/blob/main/Project%2005%3A%20Simulation/training5_simulation.ipynb)
+
+### [Project 6: Reversion Probability Engine](https://github.com/s1de-walker/Quant-Research-projects/blob/main/Project%2006%3A%20Reversion%20Probability%20Engine/training6.1.ipynb)
