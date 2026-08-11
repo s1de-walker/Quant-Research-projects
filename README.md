@@ -21,3 +21,5 @@ Quant research projects where I apply probability and statistics concepts such a
 ### [Project 8: Optimum Holding Period Finder](https://github.com/s1de-walker/Quant-Research-projects/blob/main/Project%2008%3A%20Optimum%20Holding%20Period%20Finder/training8_reversion_probability_holding_period_analysis_more.ipynb)
 
 ### [Project 9: MFE and MAE](https://github.com/s1de-walker/Quant-Research-projects/blob/main/Project%2009%3A%20MFE%20and%20MAE/training9_mfe_mae.ipynb)
+
+### [Project 10: Backtesting](https://github.com/s1de-walker/Quant-Research-projects/blob/main/Project%2010%3A%20Backtesting/training10_backtesting.ipynb)
