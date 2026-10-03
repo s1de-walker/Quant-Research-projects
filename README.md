@@ -24,6 +24,6 @@ Quant research projects where I apply probability and statistics concepts such a
 
 ### [Project 10: Backtesting](https://github.com/s1de-walker/Quant-Research-projects/blob/main/Project%2010%3A%20Backtesting/training10_backtesting.ipynb)
 
-# 
+
 
 ## Python Fluency Projects
