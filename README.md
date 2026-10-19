@@ -27,3 +27,5 @@ Quant research projects where I apply probability and statistics concepts such a
 
 
 ## Python Fluency Projects
+
+### [Python Fluency Project 01: Data Handling](https://github.com/s1de-walker/Quant-Research-projects/blob/main/Python%20Fluency%20Project%2001%3A%20Data%20Handling/Project1_DataHandling.ipynb)
