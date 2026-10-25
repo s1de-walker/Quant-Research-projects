@@ -31,3 +31,5 @@ Quant research projects where I apply probability and statistics concepts such a
 ### [Python Fluency Project 01: Data Handling](https://github.com/s1de-walker/Quant-Research-projects/blob/main/Python%20Fluency%20Project%2001%3A%20Data%20Handling/Project1_DataHandling.ipynb)
 
 ### [Python Fluency Project 02: Time Series](https://github.com/s1de-walker/Quant-Research-projects/blob/main/Python%20Fluency%20Project%2002%3A%20Time%20Series/Project2_time_series.ipynb)
+
+### [Python Fluency Project 03: Looping](https://github.com/s1de-walker/Quant-Research-projects/blob/main/Python%20Fluency%20Project%2003%3A%20Looping/Project3_Looping.ipynb)
