@@ -34,4 +34,4 @@ Quant research projects where I apply probability and statistics concepts such a
 
 ### [Python Fluency Project 03: Looping](https://github.com/s1de-walker/Quant-Research-projects/blob/main/Python%20Fluency%20Project%2003%3A%20Looping/Project3_Looping.ipynb)
 
-### [Python Fluency Project 04](https://github.com/s1de-walker/Quant-Research-projects/blob/main/Python%20Fluency%20Project%2004%3A%20Vectorization%20and%20Matrix%20Ops%20with%20Numpy/Project4_Vectorization_and_MatrixOps_with_numpy.ipynb)
+### [Python Fluency Project 04: Vectorization and Matrix Ops with Numpy](https://github.com/s1de-walker/Quant-Research-projects/blob/main/Python%20Fluency%20Project%2004%3A%20Vectorization%20and%20Matrix%20Ops%20with%20Numpy/Project4_Vectorization_and_MatrixOps_with_numpy.ipynb)
